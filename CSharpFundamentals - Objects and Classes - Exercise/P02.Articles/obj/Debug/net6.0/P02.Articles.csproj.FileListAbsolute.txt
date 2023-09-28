@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\bin\Debug\net6.0\P02.Articles.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\bin\Debug\net6.0\P02.Articles.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\bin\Debug\net6.0\P02.Articles.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\bin\Debug\net6.0\P02.Articles.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\bin\Debug\net6.0\P02.Articles.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\refint\P02.Articles.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\P02.Articles.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P02.Articles\obj\Debug\net6.0\ref\P02.Articles.dll

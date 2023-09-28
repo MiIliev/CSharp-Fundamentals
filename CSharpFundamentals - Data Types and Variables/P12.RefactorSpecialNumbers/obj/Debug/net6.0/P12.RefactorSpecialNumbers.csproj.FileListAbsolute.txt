@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\bin\Debug\net6.0\P12.RefactorSpecialNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\bin\Debug\net6.0\P12.RefactorSpecialNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\bin\Debug\net6.0\P12.RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\bin\Debug\net6.0\P12.RefactorSpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\bin\Debug\net6.0\P12.RefactorSpecialNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\refint\P12.RefactorSpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\P12.RefactorSpecialNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P12.RefactorSpecialNumbers\obj\Debug\net6.0\ref\P12.RefactorSpecialNumbers.dll

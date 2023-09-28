@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\bin\Debug\net6.0\P04.Test.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\bin\Debug\net6.0\P04.Test.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\bin\Debug\net6.0\P04.Test.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\bin\Debug\net6.0\P04.Test.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\bin\Debug\net6.0\P04.Test.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\refint\P04.Test.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\P04.Test.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P04.Test\obj\Debug\net6.0\ref\P04.Test.dll

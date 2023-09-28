@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\bin\Debug\net6.0\P03.DegustationParty.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\bin\Debug\net6.0\P03.DegustationParty.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\bin\Debug\net6.0\P03.DegustationParty.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\bin\Debug\net6.0\P03.DegustationParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\bin\Debug\net6.0\P03.DegustationParty.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\refint\P03.DegustationParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\P03.DegustationParty.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P03.DegustationParty\obj\Debug\net6.0\ref\P03.DegustationParty.dll

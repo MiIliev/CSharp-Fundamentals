@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\bin\Debug\net6.0\P01.ReverseString.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\bin\Debug\net6.0\P01.ReverseString.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\bin\Debug\net6.0\P01.ReverseString.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\bin\Debug\net6.0\P01.ReverseString.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\bin\Debug\net6.0\P01.ReverseString.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\refint\P01.ReverseString.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\P01.ReverseString.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P01.ReverseString\obj\Debug\net6.0\ref\P01.ReverseString.dll

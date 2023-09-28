@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharpFundamentals - Arrays - Lab/1.0.0": {
+        "runtime": {
+          "CSharpFundamentals - Arrays - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpFundamentals - Arrays - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

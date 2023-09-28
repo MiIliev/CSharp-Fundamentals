@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\bin\Debug\net6.0\P01.StringManipulator.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\bin\Debug\net6.0\P01.StringManipulator.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\bin\Debug\net6.0\P01.StringManipulator.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\bin\Debug\net6.0\P01.StringManipulator.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\bin\Debug\net6.0\P01.StringManipulator.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\refint\P01.StringManipulator.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\P01.StringManipulator.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Final Exam\P01.StringManipulator\obj\Debug\net6.0\ref\P01.StringManipulator.dll

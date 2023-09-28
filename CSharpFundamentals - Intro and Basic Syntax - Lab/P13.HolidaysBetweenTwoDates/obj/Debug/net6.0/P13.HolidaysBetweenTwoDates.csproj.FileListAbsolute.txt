@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\bin\Debug\net6.0\P13.HolidaysBetweenTwoDates.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\bin\Debug\net6.0\P13.HolidaysBetweenTwoDates.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\bin\Debug\net6.0\P13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\bin\Debug\net6.0\P13.HolidaysBetweenTwoDates.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\bin\Debug\net6.0\P13.HolidaysBetweenTwoDates.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\refint\P13.HolidaysBetweenTwoDates.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\P13.HolidaysBetweenTwoDates.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P13.HolidaysBetweenTwoDates\obj\Debug\net6.0\ref\P13.HolidaysBetweenTwoDates.dll

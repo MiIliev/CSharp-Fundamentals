@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\bin\Debug\net6.0\P03.HouseParty.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\bin\Debug\net6.0\P03.HouseParty.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\bin\Debug\net6.0\P03.HouseParty.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\bin\Debug\net6.0\P03.HouseParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\bin\Debug\net6.0\P03.HouseParty.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\refint\P03.HouseParty.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\P03.HouseParty.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P03.HouseParty\obj\Debug\net6.0\ref\P03.HouseParty.dll

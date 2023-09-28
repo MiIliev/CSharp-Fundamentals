@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\bin\Debug\net6.0\P02.SumDigits.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\bin\Debug\net6.0\P02.SumDigits.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\bin\Debug\net6.0\P02.SumDigits.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\bin\Debug\net6.0\P02.SumDigits.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\bin\Debug\net6.0\P02.SumDigits.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\refint\P02.SumDigits.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\P02.SumDigits.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P02.SumDigits\obj\Debug\net6.0\ref\P02.SumDigits.dll

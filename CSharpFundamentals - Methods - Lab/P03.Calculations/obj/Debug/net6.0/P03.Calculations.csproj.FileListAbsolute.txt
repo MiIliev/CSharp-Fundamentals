@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\bin\Debug\net6.0\P03.Calculations.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\bin\Debug\net6.0\P03.Calculations.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\bin\Debug\net6.0\P03.Calculations.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\bin\Debug\net6.0\P03.Calculations.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\bin\Debug\net6.0\P03.Calculations.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\refint\P03.Calculations.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\P03.Calculations.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P03.Calculations\obj\Debug\net6.0\ref\P03.Calculations.dll

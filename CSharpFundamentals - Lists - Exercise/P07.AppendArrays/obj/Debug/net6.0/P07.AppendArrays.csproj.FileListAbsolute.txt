@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\bin\Debug\net6.0\P07.AppendArrays.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\bin\Debug\net6.0\P07.AppendArrays.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\bin\Debug\net6.0\P07.AppendArrays.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\bin\Debug\net6.0\P07.AppendArrays.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\bin\Debug\net6.0\P07.AppendArrays.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\refint\P07.AppendArrays.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\P07.AppendArrays.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P07.AppendArrays\obj\Debug\net6.0\ref\P07.AppendArrays.dll

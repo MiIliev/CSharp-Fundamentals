@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\bin\Debug\net6.0\P07.TheatrePromotions.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\bin\Debug\net6.0\P07.TheatrePromotions.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\bin\Debug\net6.0\P07.TheatrePromotions.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\bin\Debug\net6.0\P07.TheatrePromotions.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\bin\Debug\net6.0\P07.TheatrePromotions.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\refint\P07.TheatrePromotions.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\P07.TheatrePromotions.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P07.TheatrePromotions\obj\Debug\net6.0\ref\P07.TheatrePromotions.dll

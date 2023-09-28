@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\bin\Debug\net6.0\P02.ChangeList.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\bin\Debug\net6.0\P02.ChangeList.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\bin\Debug\net6.0\P02.ChangeList.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\bin\Debug\net6.0\P02.ChangeList.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\bin\Debug\net6.0\P02.ChangeList.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\refint\P02.ChangeList.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\P02.ChangeList.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P02.ChangeList\obj\Debug\net6.0\ref\P02.ChangeList.dll

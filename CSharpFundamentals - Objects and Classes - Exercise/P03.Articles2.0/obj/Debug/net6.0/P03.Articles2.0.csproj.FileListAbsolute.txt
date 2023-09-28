@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\bin\Debug\net6.0\P03.Articles2.0.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\bin\Debug\net6.0\P03.Articles2.0.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\bin\Debug\net6.0\P03.Articles2.0.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\bin\Debug\net6.0\P03.Articles2.0.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\bin\Debug\net6.0\P03.Articles2.0.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\refint\P03.Articles2.0.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\P03.Articles2.0.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P03.Articles2.0\obj\Debug\net6.0\ref\P03.Articles2.0.dll

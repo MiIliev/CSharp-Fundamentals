@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\bin\Debug\net6.0\P07.VendingMachine.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\bin\Debug\net6.0\P07.VendingMachine.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\bin\Debug\net6.0\P07.VendingMachine.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\bin\Debug\net6.0\P07.VendingMachine.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\bin\Debug\net6.0\P07.VendingMachine.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\refint\P07.VendingMachine.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\P07.VendingMachine.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P07.VendingMachine\obj\Debug\net6.0\ref\P07.VendingMachine.dll

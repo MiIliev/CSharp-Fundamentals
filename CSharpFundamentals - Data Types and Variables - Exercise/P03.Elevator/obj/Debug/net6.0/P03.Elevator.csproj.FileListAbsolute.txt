@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\bin\Debug\net6.0\P03.Elevator.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\bin\Debug\net6.0\P03.Elevator.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\bin\Debug\net6.0\P03.Elevator.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\bin\Debug\net6.0\P03.Elevator.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\bin\Debug\net6.0\P03.Elevator.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\refint\P03.Elevator.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\P03.Elevator.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P03.Elevator\obj\Debug\net6.0\ref\P03.Elevator.dll

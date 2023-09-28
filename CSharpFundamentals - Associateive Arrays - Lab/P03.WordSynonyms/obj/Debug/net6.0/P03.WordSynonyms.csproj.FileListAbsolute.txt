@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\bin\Debug\net6.0\P03.WordSynonyms.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\bin\Debug\net6.0\P03.WordSynonyms.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\bin\Debug\net6.0\P03.WordSynonyms.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\bin\Debug\net6.0\P03.WordSynonyms.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\bin\Debug\net6.0\P03.WordSynonyms.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\refint\P03.WordSynonyms.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\P03.WordSynonyms.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P03.WordSynonyms\obj\Debug\net6.0\ref\P03.WordSynonyms.dll

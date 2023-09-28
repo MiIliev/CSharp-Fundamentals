@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\bin\Debug\net6.0\P07.StringExplosion.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\bin\Debug\net6.0\P07.StringExplosion.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\bin\Debug\net6.0\P07.StringExplosion.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\bin\Debug\net6.0\P07.StringExplosion.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\bin\Debug\net6.0\P07.StringExplosion.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\refint\P07.StringExplosion.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\P07.StringExplosion.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P07.StringExplosion\obj\Debug\net6.0\ref\P07.StringExplosion.dll

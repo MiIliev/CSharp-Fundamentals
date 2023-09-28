@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\bin\Debug\net6.0\P05.Courses.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\bin\Debug\net6.0\P05.Courses.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\bin\Debug\net6.0\P05.Courses.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\bin\Debug\net6.0\P05.Courses.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\bin\Debug\net6.0\P05.Courses.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\refint\P05.Courses.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\P05.Courses.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P05.Courses\obj\Debug\net6.0\ref\P05.Courses.dll

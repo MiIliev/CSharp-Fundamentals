@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\bin\Debug\net6.0\P08.BeerKegs.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\bin\Debug\net6.0\P08.BeerKegs.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\bin\Debug\net6.0\P08.BeerKegs.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\bin\Debug\net6.0\P08.BeerKegs.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\bin\Debug\net6.0\P08.BeerKegs.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\refint\P08.BeerKegs.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\P08.BeerKegs.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P08.BeerKegs\obj\Debug\net6.0\ref\P08.BeerKegs.dll

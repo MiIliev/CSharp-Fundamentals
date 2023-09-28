@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\bin\Debug\net6.0\P03.MagicCards.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\bin\Debug\net6.0\P03.MagicCards.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\bin\Debug\net6.0\P03.MagicCards.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\bin\Debug\net6.0\P03.MagicCards.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\bin\Debug\net6.0\P03.MagicCards.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\refint\P03.MagicCards.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\P03.MagicCards.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P03.MagicCards\obj\Debug\net6.0\ref\P03.MagicCards.dll

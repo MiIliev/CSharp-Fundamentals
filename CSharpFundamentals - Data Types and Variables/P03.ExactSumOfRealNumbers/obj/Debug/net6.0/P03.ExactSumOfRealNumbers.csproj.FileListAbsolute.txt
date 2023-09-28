@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\bin\Debug\net6.0\P03.ExactSumOfRealNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\bin\Debug\net6.0\P03.ExactSumOfRealNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\bin\Debug\net6.0\P03.ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\bin\Debug\net6.0\P03.ExactSumOfRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\bin\Debug\net6.0\P03.ExactSumOfRealNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\refint\P03.ExactSumOfRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\P03.ExactSumOfRealNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P03.ExactSumOfRealNumbers\obj\Debug\net6.0\ref\P03.ExactSumOfRealNumbers.dll

@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\bin\Debug\net6.0\P01.RandomizeWords.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\bin\Debug\net6.0\P01.RandomizeWords.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\bin\Debug\net6.0\P01.RandomizeWords.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\bin\Debug\net6.0\P01.RandomizeWords.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\bin\Debug\net6.0\P01.RandomizeWords.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\refint\P01.RandomizeWords.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\P01.RandomizeWords.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P01.RandomizeWords\obj\Debug\net6.0\ref\P01.RandomizeWords.dll

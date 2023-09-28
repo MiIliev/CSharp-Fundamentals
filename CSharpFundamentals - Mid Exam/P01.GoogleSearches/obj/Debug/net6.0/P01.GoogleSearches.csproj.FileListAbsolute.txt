@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\bin\Debug\net6.0\P01.GoogleSearches.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\bin\Debug\net6.0\P01.GoogleSearches.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\bin\Debug\net6.0\P01.GoogleSearches.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\bin\Debug\net6.0\P01.GoogleSearches.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\bin\Debug\net6.0\P01.GoogleSearches.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\refint\P01.GoogleSearches.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\P01.GoogleSearches.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P01.GoogleSearches\obj\Debug\net6.0\ref\P01.GoogleSearches.dll

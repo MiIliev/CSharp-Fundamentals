@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\CSharpFundamentals - Arrays - Lab.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\CSharpFundamentals - Arrays - Lab.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\CSharpFundamentals - Arrays - Lab.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\CSharpFundamentals - Arrays - Lab.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\CSharpFundamentals - Arrays - Lab.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\refint\CSharpFundamentals - Arrays - Lab.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\CSharpFundamentals - Arrays - Lab.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\ref\CSharpFundamentals - Arrays - Lab.dll

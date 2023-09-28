@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\bin\Debug\net6.0\P07.OrderByAge.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\bin\Debug\net6.0\P07.OrderByAge.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\bin\Debug\net6.0\P07.OrderByAge.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\bin\Debug\net6.0\P07.OrderByAge.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\bin\Debug\net6.0\P07.OrderByAge.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\refint\P07.OrderByAge.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\P07.OrderByAge.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P07.OrderByAge\obj\Debug\net6.0\ref\P07.OrderByAge.dll

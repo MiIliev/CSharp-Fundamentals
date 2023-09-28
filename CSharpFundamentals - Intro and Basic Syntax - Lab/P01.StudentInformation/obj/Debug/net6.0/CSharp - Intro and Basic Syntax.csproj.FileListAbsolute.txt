@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\bin\Debug\net6.0\CSharp - Intro and Basic Syntax.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\bin\Debug\net6.0\CSharp - Intro and Basic Syntax.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\bin\Debug\net6.0\CSharp - Intro and Basic Syntax.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\bin\Debug\net6.0\CSharp - Intro and Basic Syntax.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\bin\Debug\net6.0\CSharp - Intro and Basic Syntax.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\refint\CSharp - Intro and Basic Syntax.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\CSharp - Intro and Basic Syntax.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\CSharp - Intro and Basic Syntax\obj\Debug\net6.0\ref\CSharp - Intro and Basic Syntax.dll

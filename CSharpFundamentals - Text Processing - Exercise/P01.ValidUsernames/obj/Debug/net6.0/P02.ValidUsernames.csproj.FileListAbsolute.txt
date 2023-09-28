@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\bin\Debug\net6.0\P02.ValidUsernames.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\bin\Debug\net6.0\P02.ValidUsernames.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\bin\Debug\net6.0\P02.ValidUsernames.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\bin\Debug\net6.0\P02.ValidUsernames.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\bin\Debug\net6.0\P02.ValidUsernames.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\refint\P02.ValidUsernames.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\P02.ValidUsernames.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P01.ValidUsernames\obj\Debug\net6.0\ref\P02.ValidUsernames.dll

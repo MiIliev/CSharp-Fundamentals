@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\bin\Debug\net6.0\P01.Train.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\bin\Debug\net6.0\P01.Train.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\bin\Debug\net6.0\P01.Train.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\bin\Debug\net6.0\P01.Train.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\bin\Debug\net6.0\P01.Train.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\refint\P01.Train.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\P01.Train.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals-Arrays-Exercise\P01.Train\obj\Debug\net6.0\ref\P01.Train.dll

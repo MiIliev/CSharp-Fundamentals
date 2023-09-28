@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\bin\Debug\net6.0\P05.TeamworkProjects.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\bin\Debug\net6.0\P05.TeamworkProjects.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\bin\Debug\net6.0\P05.TeamworkProjects.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\bin\Debug\net6.0\P05.TeamworkProjects.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\bin\Debug\net6.0\P05.TeamworkProjects.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\refint\P05.TeamworkProjects.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\P05.TeamworkProjects.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P05.TeamworkProjects\obj\Debug\net6.0\ref\P05.TeamworkProjects.dll

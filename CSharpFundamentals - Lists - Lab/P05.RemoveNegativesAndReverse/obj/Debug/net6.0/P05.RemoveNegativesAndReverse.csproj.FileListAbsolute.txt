@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\bin\Debug\net6.0\P05.RemoveNegativesAndReverse.exe
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\bin\Debug\net6.0\P05.RemoveNegativesAndReverse.deps.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\bin\Debug\net6.0\P05.RemoveNegativesAndReverse.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\bin\Debug\net6.0\P05.RemoveNegativesAndReverse.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\bin\Debug\net6.0\P05.RemoveNegativesAndReverse.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\P05.RemoveNegativesAndReverse.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\P05.RemoveNegativesAndReverse.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P05.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\P05.RemoveNegativesAndReverse.dll

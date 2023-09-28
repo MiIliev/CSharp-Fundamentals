@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\bin\Debug\net6.0\P03.Vacation.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\bin\Debug\net6.0\P03.Vacation.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\bin\Debug\net6.0\P03.Vacation.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\bin\Debug\net6.0\P03.Vacation.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\bin\Debug\net6.0\P03.Vacation.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\refint\P03.Vacation.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\P03.Vacation.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P03.Vacation\obj\Debug\net6.0\ref\P03.Vacation.dll

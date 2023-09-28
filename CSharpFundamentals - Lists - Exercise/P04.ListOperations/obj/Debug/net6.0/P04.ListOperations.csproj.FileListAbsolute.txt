@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\bin\Debug\net6.0\P04.ListOperations.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\bin\Debug\net6.0\P04.ListOperations.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\bin\Debug\net6.0\P04.ListOperations.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\bin\Debug\net6.0\P04.ListOperations.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\bin\Debug\net6.0\P04.ListOperations.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\refint\P04.ListOperations.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\P04.ListOperations.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P04.ListOperations\obj\Debug\net6.0\ref\P04.ListOperations.dll

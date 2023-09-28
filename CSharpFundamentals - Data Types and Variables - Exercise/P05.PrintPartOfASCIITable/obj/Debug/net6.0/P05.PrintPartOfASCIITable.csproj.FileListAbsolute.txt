@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\bin\Debug\net6.0\P05.PrintPartOfASCIITable.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\bin\Debug\net6.0\P05.PrintPartOfASCIITable.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\bin\Debug\net6.0\P05.PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\bin\Debug\net6.0\P05.PrintPartOfASCIITable.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\bin\Debug\net6.0\P05.PrintPartOfASCIITable.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\refint\P05.PrintPartOfASCIITable.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\P05.PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P05.PrintPartOfASCIITable\obj\Debug\net6.0\ref\P05.PrintPartOfASCIITable.dll

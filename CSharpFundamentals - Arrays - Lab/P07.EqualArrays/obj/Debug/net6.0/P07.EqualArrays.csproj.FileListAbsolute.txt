@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\bin\Debug\net6.0\P07.EqualArrays.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\bin\Debug\net6.0\P07.EqualArrays.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\bin\Debug\net6.0\P07.EqualArrays.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\bin\Debug\net6.0\P07.EqualArrays.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\bin\Debug\net6.0\P07.EqualArrays.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\refint\P07.EqualArrays.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\P07.EqualArrays.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P07.EqualArrays\obj\Debug\net6.0\ref\P07.EqualArrays.dll

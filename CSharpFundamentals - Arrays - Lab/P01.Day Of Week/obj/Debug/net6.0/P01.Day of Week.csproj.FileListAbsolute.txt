@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\P01.Day of Week.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\P01.Day of Week.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\P01.Day of Week.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\P01.Day of Week.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\bin\Debug\net6.0\P01.Day of Week.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\refint\P01.Day of Week.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\P01.Day of Week.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\CSharpFundamentals - Arrays - Lab\obj\Debug\net6.0\ref\P01.Day of Week.dll

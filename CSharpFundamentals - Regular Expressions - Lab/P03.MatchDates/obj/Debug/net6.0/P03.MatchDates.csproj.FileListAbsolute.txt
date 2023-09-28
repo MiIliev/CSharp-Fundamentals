@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\bin\Debug\net6.0\P03.MatchDates.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\bin\Debug\net6.0\P03.MatchDates.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\bin\Debug\net6.0\P03.MatchDates.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\bin\Debug\net6.0\P03.MatchDates.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\bin\Debug\net6.0\P03.MatchDates.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\refint\P03.MatchDates.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\P03.MatchDates.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P03.MatchDates\obj\Debug\net6.0\ref\P03.MatchDates.dll

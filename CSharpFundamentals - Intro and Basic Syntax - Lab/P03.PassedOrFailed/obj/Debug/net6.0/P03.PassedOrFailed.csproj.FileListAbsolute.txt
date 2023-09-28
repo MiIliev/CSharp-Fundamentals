@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\bin\Debug\net6.0\P03.PassedOrFailed.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\bin\Debug\net6.0\P03.PassedOrFailed.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\bin\Debug\net6.0\P03.PassedOrFailed.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\bin\Debug\net6.0\P03.PassedOrFailed.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\bin\Debug\net6.0\P03.PassedOrFailed.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\refint\P03.PassedOrFailed.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\P03.PassedOrFailed.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P03.PassedOrFailed\obj\Debug\net6.0\ref\P03.PassedOrFailed.dll

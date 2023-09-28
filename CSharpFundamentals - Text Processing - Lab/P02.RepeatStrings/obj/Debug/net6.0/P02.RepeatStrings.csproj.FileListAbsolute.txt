@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\bin\Debug\net6.0\P02.RepeatStrings.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\bin\Debug\net6.0\P02.RepeatStrings.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\bin\Debug\net6.0\P02.RepeatStrings.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\bin\Debug\net6.0\P02.RepeatStrings.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\bin\Debug\net6.0\P02.RepeatStrings.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\refint\P02.RepeatStrings.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\P02.RepeatStrings.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P02.RepeatStrings\obj\Debug\net6.0\ref\P02.RepeatStrings.dll

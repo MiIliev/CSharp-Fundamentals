@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\bin\Debug\net6.0\P07.ListManipulationAdvanced.exe
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\bin\Debug\net6.0\P07.ListManipulationAdvanced.deps.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\bin\Debug\net6.0\P07.ListManipulationAdvanced.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\bin\Debug\net6.0\P07.ListManipulationAdvanced.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\bin\Debug\net6.0\P07.ListManipulationAdvanced.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\refint\P07.ListManipulationAdvanced.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\P07.ListManipulationAdvanced.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P07.ListManipulationAdvanced\obj\Debug\net6.0\ref\P07.ListManipulationAdvanced.dll

@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\bin\Debug\net6.0\P04.CaesarCipher.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\bin\Debug\net6.0\P04.CaesarCipher.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\bin\Debug\net6.0\P04.CaesarCipher.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\bin\Debug\net6.0\P04.CaesarCipher.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\bin\Debug\net6.0\P04.CaesarCipher.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\refint\P04.CaesarCipher.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\P04.CaesarCipher.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P04.CaesarCipher\obj\Debug\net6.0\ref\P04.CaesarCipher.dll

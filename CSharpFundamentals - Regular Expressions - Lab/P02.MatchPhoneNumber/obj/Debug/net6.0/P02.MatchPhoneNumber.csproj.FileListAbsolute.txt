@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\bin\Debug\net6.0\P02.MatchPhoneNumber.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\bin\Debug\net6.0\P02.MatchPhoneNumber.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\bin\Debug\net6.0\P02.MatchPhoneNumber.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\bin\Debug\net6.0\P02.MatchPhoneNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\bin\Debug\net6.0\P02.MatchPhoneNumber.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\refint\P02.MatchPhoneNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\P02.MatchPhoneNumber.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Lab\P02.MatchPhoneNumber\obj\Debug\net6.0\ref\P02.MatchPhoneNumber.dll

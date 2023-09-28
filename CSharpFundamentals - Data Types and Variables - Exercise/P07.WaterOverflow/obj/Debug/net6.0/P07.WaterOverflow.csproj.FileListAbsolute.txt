@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\bin\Debug\net6.0\P07.WaterOverflow.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\bin\Debug\net6.0\P07.WaterOverflow.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\bin\Debug\net6.0\P07.WaterOverflow.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\bin\Debug\net6.0\P07.WaterOverflow.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\bin\Debug\net6.0\P07.WaterOverflow.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\refint\P07.WaterOverflow.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\P07.WaterOverflow.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P07.WaterOverflow\obj\Debug\net6.0\ref\P07.WaterOverflow.dll

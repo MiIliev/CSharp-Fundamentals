@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\bin\Debug\net6.0\P06.StrongNumber.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\bin\Debug\net6.0\P06.StrongNumber.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\bin\Debug\net6.0\P06.StrongNumber.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\bin\Debug\net6.0\P06.StrongNumber.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\bin\Debug\net6.0\P06.StrongNumber.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\refint\P06.StrongNumber.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\P06.StrongNumber.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P06.StrongNumber\obj\Debug\net6.0\ref\P06.StrongNumber.dll

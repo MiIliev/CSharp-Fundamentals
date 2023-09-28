@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\bin\Debug\net6.0\P01.AdvertisementMessage.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\bin\Debug\net6.0\P01.AdvertisementMessage.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\bin\Debug\net6.0\P01.AdvertisementMessage.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\bin\Debug\net6.0\P01.AdvertisementMessage.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\bin\Debug\net6.0\P01.AdvertisementMessage.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\refint\P01.AdvertisementMessage.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\P01.AdvertisementMessage.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Exercise\P01.AdvertisementMessage\obj\Debug\net6.0\ref\P01.AdvertisementMessage.dll

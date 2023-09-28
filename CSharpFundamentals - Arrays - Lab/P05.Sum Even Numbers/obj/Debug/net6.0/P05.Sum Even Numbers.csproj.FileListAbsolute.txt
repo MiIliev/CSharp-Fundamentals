@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\bin\Debug\net6.0\P05.Sum Even Numbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\bin\Debug\net6.0\P05.Sum Even Numbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\bin\Debug\net6.0\P05.Sum Even Numbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\bin\Debug\net6.0\P05.Sum Even Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\bin\Debug\net6.0\P05.Sum Even Numbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\refint\P05.Sum Even Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\P05.Sum Even Numbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P05.Sum Even Numbers\obj\Debug\net6.0\ref\P05.Sum Even Numbers.dll

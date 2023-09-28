@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\bin\Debug\net6.0\P01.Train.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\bin\Debug\net6.0\P01.Train.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\bin\Debug\net6.0\P01.Train.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\bin\Debug\net6.0\P01.Train.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\bin\Debug\net6.0\P01.Train.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\refint\P01.Train.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\P01.Train.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P01.Train\obj\Debug\net6.0\ref\P01.Train.dll

@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\bin\Debug\net6.0\P03.Rounding Numbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\bin\Debug\net6.0\P03.Rounding Numbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\bin\Debug\net6.0\P03.Rounding Numbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\bin\Debug\net6.0\P03.Rounding Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\bin\Debug\net6.0\P03.Rounding Numbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\refint\P03.Rounding Numbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\P03.Rounding Numbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P03.Rounding Numbers\obj\Debug\net6.0\ref\P03.Rounding Numbers.dll

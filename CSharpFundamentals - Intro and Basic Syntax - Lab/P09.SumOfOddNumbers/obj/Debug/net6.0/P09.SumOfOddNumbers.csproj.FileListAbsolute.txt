@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\bin\Debug\net6.0\P09.SumOfOddNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\bin\Debug\net6.0\P09.SumOfOddNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\bin\Debug\net6.0\P09.SumOfOddNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\bin\Debug\net6.0\P09.SumOfOddNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\bin\Debug\net6.0\P09.SumOfOddNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\refint\P09.SumOfOddNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\P09.SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P09.SumOfOddNumbers\obj\Debug\net6.0\ref\P09.SumOfOddNumbers.dll

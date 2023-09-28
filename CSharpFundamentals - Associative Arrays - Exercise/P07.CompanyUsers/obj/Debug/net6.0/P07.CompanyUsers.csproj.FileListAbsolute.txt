@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\bin\Debug\net6.0\P07.CompanyUsers.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\bin\Debug\net6.0\P07.CompanyUsers.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\bin\Debug\net6.0\P07.CompanyUsers.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\bin\Debug\net6.0\P07.CompanyUsers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\bin\Debug\net6.0\P07.CompanyUsers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\refint\P07.CompanyUsers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\P07.CompanyUsers.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P07.CompanyUsers\obj\Debug\net6.0\ref\P07.CompanyUsers.dll

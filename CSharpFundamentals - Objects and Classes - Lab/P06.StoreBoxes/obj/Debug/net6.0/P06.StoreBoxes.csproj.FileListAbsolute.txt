@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\bin\Debug\net6.0\P06.StoreBoxes.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\bin\Debug\net6.0\P06.StoreBoxes.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\bin\Debug\net6.0\P06.StoreBoxes.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\bin\Debug\net6.0\P06.StoreBoxes.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\bin\Debug\net6.0\P06.StoreBoxes.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\refint\P06.StoreBoxes.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\P06.StoreBoxes.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P06.StoreBoxes\obj\Debug\net6.0\ref\P06.StoreBoxes.dll

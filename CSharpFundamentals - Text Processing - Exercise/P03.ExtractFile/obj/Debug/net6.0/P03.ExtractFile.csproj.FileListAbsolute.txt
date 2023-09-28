@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\bin\Debug\net6.0\P03.ExtractFile.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\bin\Debug\net6.0\P03.ExtractFile.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\bin\Debug\net6.0\P03.ExtractFile.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\bin\Debug\net6.0\P03.ExtractFile.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\bin\Debug\net6.0\P03.ExtractFile.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\refint\P03.ExtractFile.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\P03.ExtractFile.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P03.ExtractFile\obj\Debug\net6.0\ref\P03.ExtractFile.dll

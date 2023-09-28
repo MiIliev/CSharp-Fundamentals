@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\bin\Debug\net6.0\P06.ForeignLanguages.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\bin\Debug\net6.0\P06.ForeignLanguages.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\bin\Debug\net6.0\P06.ForeignLanguages.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\bin\Debug\net6.0\P06.ForeignLanguages.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\bin\Debug\net6.0\P06.ForeignLanguages.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\refint\P06.ForeignLanguages.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\P06.ForeignLanguages.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P06.ForeignLanguages\obj\Debug\net6.0\ref\P06.ForeignLanguages.dll

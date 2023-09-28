@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\bin\Debug\net6.0\CSharpFundamentals - List - Lab.exe
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\bin\Debug\net6.0\CSharpFundamentals - List - Lab.deps.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\bin\Debug\net6.0\CSharpFundamentals - List - Lab.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\bin\Debug\net6.0\CSharpFundamentals - List - Lab.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\bin\Debug\net6.0\CSharpFundamentals - List - Lab.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\refint\CSharpFundamentals - List - Lab.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\CSharpFundamentals - List - Lab.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\CSharpFundamentals - List - Lab\obj\Debug\net6.0\ref\CSharpFundamentals - List - Lab.dll

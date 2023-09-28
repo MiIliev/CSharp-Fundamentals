@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\bin\Debug\net6.0\P09.CharToString.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\bin\Debug\net6.0\P09.CharToString.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\bin\Debug\net6.0\P09.CharToString.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\bin\Debug\net6.0\P09.CharToString.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\bin\Debug\net6.0\P09.CharToString.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\refint\P09.CharToString.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\P09.CharToString.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P09.CharToString\obj\Debug\net6.0\ref\P09.CharToString.dll

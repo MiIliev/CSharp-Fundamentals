@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\bin\Debug\net6.0\P06.CardsGame.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\bin\Debug\net6.0\P06.CardsGame.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\bin\Debug\net6.0\P06.CardsGame.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\bin\Debug\net6.0\P06.CardsGame.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\bin\Debug\net6.0\P06.CardsGame.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\refint\P06.CardsGame.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\P06.CardsGame.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Lists - Exercise\P06.CardsGame\obj\Debug\net6.0\ref\P06.CardsGame.dll

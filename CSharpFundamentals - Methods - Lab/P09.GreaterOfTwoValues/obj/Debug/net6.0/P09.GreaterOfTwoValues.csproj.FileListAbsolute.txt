@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\bin\Debug\net6.0\P09.GreaterOfTwoValues.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\bin\Debug\net6.0\P09.GreaterOfTwoValues.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\bin\Debug\net6.0\P09.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\bin\Debug\net6.0\P09.GreaterOfTwoValues.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\bin\Debug\net6.0\P09.GreaterOfTwoValues.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\refint\P09.GreaterOfTwoValues.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\P09.GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P09.GreaterOfTwoValues\obj\Debug\net6.0\ref\P09.GreaterOfTwoValues.dll

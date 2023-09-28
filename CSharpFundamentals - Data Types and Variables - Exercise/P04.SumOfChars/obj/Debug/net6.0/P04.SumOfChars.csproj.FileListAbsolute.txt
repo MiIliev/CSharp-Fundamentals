@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\bin\Debug\net6.0\P04.SumOfChars.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\bin\Debug\net6.0\P04.SumOfChars.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\bin\Debug\net6.0\P04.SumOfChars.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\bin\Debug\net6.0\P04.SumOfChars.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\bin\Debug\net6.0\P04.SumOfChars.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\refint\P04.SumOfChars.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\P04.SumOfChars.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables - Exercise\P04.SumOfChars\obj\Debug\net6.0\ref\P04.SumOfChars.dll

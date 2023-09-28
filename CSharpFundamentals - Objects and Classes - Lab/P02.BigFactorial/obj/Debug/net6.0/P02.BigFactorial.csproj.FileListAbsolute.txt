@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\bin\Debug\net6.0\P02.BigFactorial.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\bin\Debug\net6.0\P02.BigFactorial.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\bin\Debug\net6.0\P02.BigFactorial.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\bin\Debug\net6.0\P02.BigFactorial.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\bin\Debug\net6.0\P02.BigFactorial.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\refint\P02.BigFactorial.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\P02.BigFactorial.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Objects and Classes - Lab\P02.BigFactorial\obj\Debug\net6.0\ref\P02.BigFactorial.dll

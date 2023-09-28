@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\bin\Debug\net6.0\P04.WordFilter.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\bin\Debug\net6.0\P04.WordFilter.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\bin\Debug\net6.0\P04.WordFilter.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\bin\Debug\net6.0\P04.WordFilter.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\bin\Debug\net6.0\P04.WordFilter.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\refint\P04.WordFilter.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\P04.WordFilter.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P04.WordFilter\obj\Debug\net6.0\ref\P04.WordFilter.dll

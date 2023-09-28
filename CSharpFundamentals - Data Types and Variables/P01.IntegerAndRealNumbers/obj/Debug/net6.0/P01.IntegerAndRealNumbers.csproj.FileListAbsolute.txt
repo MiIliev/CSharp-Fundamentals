@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\bin\Debug\net6.0\P01.IntegerAndRealNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\bin\Debug\net6.0\P01.IntegerAndRealNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\bin\Debug\net6.0\P01.IntegerAndRealNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\bin\Debug\net6.0\P01.IntegerAndRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\bin\Debug\net6.0\P01.IntegerAndRealNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\refint\P01.IntegerAndRealNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\P01.IntegerAndRealNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P01.IntegerAndRealNumbers\obj\Debug\net6.0\ref\P01.IntegerAndRealNumbers.dll

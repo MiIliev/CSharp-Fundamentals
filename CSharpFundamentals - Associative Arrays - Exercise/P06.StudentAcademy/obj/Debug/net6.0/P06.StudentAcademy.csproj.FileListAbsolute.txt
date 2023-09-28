@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\bin\Debug\net6.0\P06.StudentAcademy.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\bin\Debug\net6.0\P06.StudentAcademy.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\bin\Debug\net6.0\P06.StudentAcademy.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\bin\Debug\net6.0\P06.StudentAcademy.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\bin\Debug\net6.0\P06.StudentAcademy.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\refint\P06.StudentAcademy.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\P06.StudentAcademy.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associative Arrays - Exercise\P06.StudentAcademy\obj\Debug\net6.0\ref\P06.StudentAcademy.dll

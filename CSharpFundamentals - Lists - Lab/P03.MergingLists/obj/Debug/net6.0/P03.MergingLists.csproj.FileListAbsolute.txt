@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\bin\Debug\net6.0\P03.MergingLists.exe
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\bin\Debug\net6.0\P03.MergingLists.deps.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\bin\Debug\net6.0\P03.MergingLists.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\bin\Debug\net6.0\P03.MergingLists.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\bin\Debug\net6.0\P03.MergingLists.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\refint\P03.MergingLists.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\P03.MergingLists.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P03.MergingLists\obj\Debug\net6.0\ref\P03.MergingLists.dll

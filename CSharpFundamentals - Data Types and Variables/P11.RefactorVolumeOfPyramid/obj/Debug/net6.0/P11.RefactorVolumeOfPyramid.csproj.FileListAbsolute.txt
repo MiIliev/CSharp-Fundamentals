@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\bin\Debug\net6.0\P11.RefactorVolumeOfPyramid.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\bin\Debug\net6.0\P11.RefactorVolumeOfPyramid.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\bin\Debug\net6.0\P11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\bin\Debug\net6.0\P11.RefactorVolumeOfPyramid.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\bin\Debug\net6.0\P11.RefactorVolumeOfPyramid.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\refint\P11.RefactorVolumeOfPyramid.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\P11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P11.RefactorVolumeOfPyramid\obj\Debug\net6.0\ref\P11.RefactorVolumeOfPyramid.dll

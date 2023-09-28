@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net6.0\P04.CenturiesToMinutes.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net6.0\P04.CenturiesToMinutes.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net6.0\P04.CenturiesToMinutes.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net6.0\P04.CenturiesToMinutes.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\bin\Debug\net6.0\P04.CenturiesToMinutes.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\refint\P04.CenturiesToMinutes.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\P04.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P04.CenturiesToMinutes\obj\Debug\net6.0\ref\P04.CenturiesToMinutes.dll

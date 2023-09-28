@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\bin\Debug\net6.0\P01.CountRealNumbers.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\bin\Debug\net6.0\P01.CountRealNumbers.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\bin\Debug\net6.0\P01.CountRealNumbers.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\bin\Debug\net6.0\P01.CountRealNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\bin\Debug\net6.0\P01.CountRealNumbers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\refint\P01.CountRealNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\P01.CountRealNumbers.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P01.CountRealNumbers\obj\Debug\net6.0\ref\P01.CountRealNumbers.dll

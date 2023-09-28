@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\bin\Debug\net6.0\P06.Even And Odd Subtraction.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\bin\Debug\net6.0\P06.Even And Odd Subtraction.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\bin\Debug\net6.0\P06.Even And Odd Subtraction.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\bin\Debug\net6.0\P06.Even And Odd Subtraction.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\bin\Debug\net6.0\P06.Even And Odd Subtraction.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\refint\P06.Even And Odd Subtraction.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\P06.Even And Odd Subtraction.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Arrays - Lab\P06.Even And Odd Subtraction\obj\Debug\net6.0\ref\P06.Even And Odd Subtraction.dll

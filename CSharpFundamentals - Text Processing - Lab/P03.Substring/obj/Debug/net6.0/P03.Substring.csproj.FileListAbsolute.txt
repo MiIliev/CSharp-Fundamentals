@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\bin\Debug\net6.0\P03.Substring.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\bin\Debug\net6.0\P03.Substring.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\bin\Debug\net6.0\P03.Substring.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\bin\Debug\net6.0\P03.Substring.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\bin\Debug\net6.0\P03.Substring.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\refint\P03.Substring.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\P03.Substring.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Lab\P03.Substring\obj\Debug\net6.0\ref\P03.Substring.dll

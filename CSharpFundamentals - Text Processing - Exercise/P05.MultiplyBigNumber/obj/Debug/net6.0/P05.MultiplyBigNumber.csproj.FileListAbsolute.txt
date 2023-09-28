@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\bin\Debug\net6.0\P05.MultiplyBigNumber.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\bin\Debug\net6.0\P05.MultiplyBigNumber.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\bin\Debug\net6.0\P05.MultiplyBigNumber.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\bin\Debug\net6.0\P05.MultiplyBigNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\bin\Debug\net6.0\P05.MultiplyBigNumber.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\refint\P05.MultiplyBigNumber.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\P05.MultiplyBigNumber.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Text Processing - Exercise\P05.MultiplyBigNumber\obj\Debug\net6.0\ref\P05.MultiplyBigNumber.dll

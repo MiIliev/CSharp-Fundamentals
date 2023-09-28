@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\bin\Debug\net6.0\P04.ListOfProducts.exe
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\bin\Debug\net6.0\P04.ListOfProducts.deps.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\bin\Debug\net6.0\P04.ListOfProducts.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\bin\Debug\net6.0\P04.ListOfProducts.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\bin\Debug\net6.0\P04.ListOfProducts.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\refint\P04.ListOfProducts.dll
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.pdb
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\P04.ListOfProducts.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\P01.SumAdjacentEqualNumbers\P04.ListOfProducts\obj\Debug\net6.0\ref\P04.ListOfProducts.dll

@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\bin\Debug\net6.0\P02.OddOccurrences.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\bin\Debug\net6.0\P02.OddOccurrences.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\bin\Debug\net6.0\P02.OddOccurrences.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\bin\Debug\net6.0\P02.OddOccurrences.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\bin\Debug\net6.0\P02.OddOccurrences.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\refint\P02.OddOccurrences.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\P02.OddOccurrences.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Associateive Arrays - Lab\P02.OddOccurrences\obj\Debug\net6.0\ref\P02.OddOccurrences.dll

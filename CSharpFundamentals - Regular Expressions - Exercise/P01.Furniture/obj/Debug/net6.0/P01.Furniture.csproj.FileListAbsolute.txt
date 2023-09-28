@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\bin\Debug\net6.0\P01.Furniture.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\bin\Debug\net6.0\P01.Furniture.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\bin\Debug\net6.0\P01.Furniture.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\bin\Debug\net6.0\P01.Furniture.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\bin\Debug\net6.0\P01.Furniture.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\refint\P01.Furniture.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\P01.Furniture.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Regular Expressions - Exercise\P01.Furniture\obj\Debug\net6.0\ref\P01.Furniture.dll

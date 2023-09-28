@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\bin\Debug\net6.0\P12.EvenNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\bin\Debug\net6.0\P12.EvenNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\bin\Debug\net6.0\P12.EvenNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\bin\Debug\net6.0\P12.EvenNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\bin\Debug\net6.0\P12.EvenNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\refint\P12.EvenNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\P12.EvenNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\P01.StudentInformation\P12.EvenNumbers\obj\Debug\net6.0\ref\P12.EvenNumbers.dll

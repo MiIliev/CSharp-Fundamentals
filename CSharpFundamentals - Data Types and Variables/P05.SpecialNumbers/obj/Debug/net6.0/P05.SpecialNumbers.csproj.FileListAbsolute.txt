@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net6.0\P05.SpecialNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net6.0\P05.SpecialNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net6.0\P05.SpecialNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net6.0\P05.SpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\bin\Debug\net6.0\P05.SpecialNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\refint\P05.SpecialNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\P05.SpecialNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P05.SpecialNumbers\obj\Debug\net6.0\ref\P05.SpecialNumbers.dll

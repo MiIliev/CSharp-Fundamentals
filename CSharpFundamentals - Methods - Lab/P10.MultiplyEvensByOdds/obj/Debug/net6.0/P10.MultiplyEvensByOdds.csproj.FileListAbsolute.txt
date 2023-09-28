@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\bin\Debug\net6.0\P10.MultiplyEvensByOdds.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\bin\Debug\net6.0\P10.MultiplyEvensByOdds.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\bin\Debug\net6.0\P10.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\bin\Debug\net6.0\P10.MultiplyEvensByOdds.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\bin\Debug\net6.0\P10.MultiplyEvensByOdds.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\refint\P10.MultiplyEvensByOdds.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\P10.MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P10.MultiplyEvensByOdds\obj\Debug\net6.0\ref\P10.MultiplyEvensByOdds.dll

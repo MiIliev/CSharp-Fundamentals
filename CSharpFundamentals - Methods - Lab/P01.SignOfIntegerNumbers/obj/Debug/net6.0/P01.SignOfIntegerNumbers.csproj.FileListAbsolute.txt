@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\bin\Debug\net6.0\P01.SignOfIntegerNumbers.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\bin\Debug\net6.0\P01.SignOfIntegerNumbers.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\bin\Debug\net6.0\P01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\bin\Debug\net6.0\P01.SignOfIntegerNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\bin\Debug\net6.0\P01.SignOfIntegerNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\P01.SignOfIntegerNumbers.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\P01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\P01.SignOfIntegerNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\bin\Debug\net6.0\P07.ConcatNames.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\bin\Debug\net6.0\P07.ConcatNames.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\bin\Debug\net6.0\P07.ConcatNames.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\bin\Debug\net6.0\P07.ConcatNames.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\bin\Debug\net6.0\P07.ConcatNames.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\refint\P07.ConcatNames.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\P07.ConcatNames.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Data Types and Variables\P07.ConcatNames\obj\Debug\net6.0\ref\P07.ConcatNames.dll

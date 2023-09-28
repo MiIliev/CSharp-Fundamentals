@@ -1,0 +1,15 @@
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\bin\Debug\net6.0\P02.GeneratingNumbers.exe
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\bin\Debug\net6.0\P02.GeneratingNumbers.deps.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\bin\Debug\net6.0\P02.GeneratingNumbers.runtimeconfig.json
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\bin\Debug\net6.0\P02.GeneratingNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\bin\Debug\net6.0\P02.GeneratingNumbers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.csproj.AssemblyReference.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.AssemblyInfoInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.AssemblyInfo.cs
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.csproj.CoreCompileInputs.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\refint\P02.GeneratingNumbers.dll
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.pdb
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\P02.GeneratingNumbers.genruntimeconfig.cache
+M:\SoftUni\C# Fundamentals\CSharpFundamentals - Mid Exam\P02.GeneratingNumbers\obj\Debug\net6.0\ref\P02.GeneratingNumbers.dll

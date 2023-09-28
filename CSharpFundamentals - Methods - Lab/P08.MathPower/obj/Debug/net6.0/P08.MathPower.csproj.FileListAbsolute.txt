@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\bin\Debug\net6.0\P08.MathPower.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\bin\Debug\net6.0\P08.MathPower.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\bin\Debug\net6.0\P08.MathPower.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\bin\Debug\net6.0\P08.MathPower.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\bin\Debug\net6.0\P08.MathPower.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\refint\P08.MathPower.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\P08.MathPower.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Methods - Lab\P08.MathPower\obj\Debug\net6.0\ref\P08.MathPower.dll

@@ -1,0 +1,15 @@
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\bin\Debug\net6.0\P04.PrintAndSum.exe
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\bin\Debug\net6.0\P04.PrintAndSum.deps.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\bin\Debug\net6.0\P04.PrintAndSum.runtimeconfig.json
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\bin\Debug\net6.0\P04.PrintAndSum.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\bin\Debug\net6.0\P04.PrintAndSum.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.AssemblyInfo.cs
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\refint\P04.PrintAndSum.dll
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.pdb
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\P04.PrintAndSum.genruntimeconfig.cache
+C:\Users\Ellilar\Desktop\C# Fundamentals\CSharpFundamentals - Intro and Basic Syntax - Exercise\P04.PrintAndSum\obj\Debug\net6.0\ref\P04.PrintAndSum.dll
